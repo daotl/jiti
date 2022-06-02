@@ -1,5 +1,5 @@
 {
-  "name": "jiti",
+  "name": "@daotl/jiti",
   "version": "1.13.0",
   "description": "Runtime typescript and ESM support for Node.js (CommonJS)",
   "repository": "unjs/jiti",

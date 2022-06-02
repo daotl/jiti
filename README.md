@@ -1,5 +1,9 @@
 # jiti
 
+Temporary fork for supporting TypeScript metadata in Nuxt 3, see:
+- https://github.com/unjs/jiti/issues/27#issuecomment-849132971
+- https://github.com/jozsefsallai/jiti/commit/912645967d095b7d1a97829e2013019b948a9761
+
 > Runtime typescript and ESM support for Node.js (CommonJS)
 
 [![version][npm-v-src]][npm-v-href]
